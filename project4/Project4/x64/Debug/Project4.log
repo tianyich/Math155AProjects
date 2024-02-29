@@ -1,0 +1,7 @@
+﻿  MySurfaces.cpp
+L:\155A\project4\MySurfaces.cpp(315,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+L:\155A\project4\MySurfaces.cpp(316,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+L:\155A\project4\MySurfaces.cpp(322,84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+L:\155A\project4\MySurfaces.cpp(324,125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+L:\155A\project4\MySurfaces.cpp(326,126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project4.vcxproj -> L:\155A\project4\Project4\x64\Debug\Project4.exe
